@@ -1,0 +1,7 @@
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\ResponsiPemrograman3317\ResponsiPemrograman3317\bin\Debug\ResponsiPemrograman3317.exe.config
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\ResponsiPemrograman3317\ResponsiPemrograman3317\bin\Debug\ResponsiPemrograman3317.exe
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\ResponsiPemrograman3317\ResponsiPemrograman3317\bin\Debug\ResponsiPemrograman3317.pdb
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\ResponsiPemrograman3317\ResponsiPemrograman3317\obj\Debug\ResponsiPemrograman3317.csprojAssemblyReference.cache
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\ResponsiPemrograman3317\ResponsiPemrograman3317\obj\Debug\ResponsiPemrograman3317.csproj.CoreCompileInputs.cache
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\ResponsiPemrograman3317\ResponsiPemrograman3317\obj\Debug\ResponsiPemrograman3317.exe
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\ResponsiPemrograman3317\ResponsiPemrograman3317\obj\Debug\ResponsiPemrograman3317.pdb
